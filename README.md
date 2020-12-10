@@ -6,6 +6,12 @@ It is based on the instructions from the link below:
 
 https://wiki.infomir.eu/eng/ministra-tv-platform/ministra-installation-guide/ministra-tv-platform-installation
 
+WHAT TO DO IF PHING EXECUTION FAILS ON UBUNTU 16.04
+
+File to patch:
+
+build.xml 
+
 Before executing ministra-install.sh, make sure of the following:
 - The ministra-<version>.zip file is in the same directory as this script
 - The script has execute permissions (chmod +x install.sh)
