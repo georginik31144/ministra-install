@@ -8,6 +8,7 @@ https://wiki.infomir.eu/eng/ministra-tv-platform/ministra-installation-guide/min
 
 WHAT TO DO IF PHING EXECUTION FAILS ON UBUNTU 16.04
 https://wiki.infomir.eu/eng/ministra-tv-platform/ministra-installation-guide/faq/what-to-do-if-phing-execution-fails-on-ubuntu-16-04
+
 File to patch:
 
 build.xml 
