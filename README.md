@@ -7,6 +7,7 @@ It is based on the instructions from the link below:
 https://wiki.infomir.eu/eng/ministra-tv-platform/ministra-installation-guide/ministra-tv-platform-installation
 
 WHAT TO DO IF PHING EXECUTION FAILS ON UBUNTU 16.04
+
 https://wiki.infomir.eu/eng/ministra-tv-platform/ministra-installation-guide/faq/what-to-do-if-phing-execution-fails-on-ubuntu-16-04
 
 File to patch:
